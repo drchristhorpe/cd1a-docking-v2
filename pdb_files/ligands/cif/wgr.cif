@@ -1,0 +1,366 @@
+data_WGR
+#
+
+_chem_comp.id                                   WGR
+_chem_comp.name                                 dideoxymycobactin-838
+_chem_comp.type                                 non-polymer
+_chem_comp.pdbx_type                            HETAIN
+_chem_comp.formula                              "C47 H75 N5 O8"
+_chem_comp.mon_nstd_parent_comp_id              ?
+_chem_comp.pdbx_synonyms                        "(2R)-4-oxo-4-{[(3S)-2-oxoazepan-3-yl]amino}butan-2-yl N~2~-[(4S)-2-(2-hydroxyphenyl)-4-methyl-4,5-dihydro-1,3-oxazole-4-carbonyl]-N~6~-[(2Z)-icos-2-enoyl]-L-lysinate"
+_chem_comp.pdbx_formal_charge                   0
+_chem_comp.pdbx_initial_date                    2021-08-27
+_chem_comp.pdbx_modified_date                   2022-05-13
+_chem_comp.pdbx_ambiguous_flag                  N
+_chem_comp.pdbx_release_status                  REL
+_chem_comp.pdbx_replaced_by                     ?
+_chem_comp.pdbx_replaces                        ?
+_chem_comp.formula_weight                       838.127
+_chem_comp.one_letter_code                      ?
+_chem_comp.three_letter_code                    WGR
+_chem_comp.pdbx_model_coordinates_details       ?
+_chem_comp.pdbx_model_coordinates_missing_flag  N
+_chem_comp.pdbx_ideal_coordinates_details       Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag  N
+_chem_comp.pdbx_model_coordinates_db_code       7RYO
+_chem_comp.pdbx_subcomponent_list               ?
+_chem_comp.pdbx_processing_site                 RCSB
+#   #
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+WGR  N    N1   N  0  1  N  N  N  15.101  10.107   -3.757   -0.546   4.850   0.709  N    WGR    1  
+WGR  C    C1   C  0  1  N  N  N  17.860  18.638   -4.936  -21.456  -5.172  -1.292  C    WGR    2  
+WGR  O    O1   O  0  1  N  N  N  15.846   9.028   -5.594   -2.184   4.492  -0.749  O    WGR    3  
+WGR  C1   C2   C  0  1  N  N  N  16.778  18.170   -5.874  -20.709  -4.067  -0.543  C1   WGR    4  
+WGR  C10  C3   C  0  1  N  N  N  18.748  13.338  -13.239  -10.864   1.430  -0.764  C10  WGR    5  
+WGR  C11  C4   C  0  1  N  N  N  19.463  12.385  -12.301  -10.117   2.536  -0.015  C11  WGR    6  
+WGR  C12  C5   C  0  1  N  N  N  18.628  11.978  -11.097   -8.746   2.751  -0.659  C12  WGR    7  
+WGR  C13  C6   C  0  1  N  N  N  19.189  10.783  -10.350   -7.999   3.856   0.090  C13  WGR    8  
+WGR  C14  C7   C  0  1  N  N  N  18.353  10.337   -9.162   -6.628   4.071  -0.553  C14  WGR    9  
+WGR  C15  C8   C  0  1  N  N  N  19.016  10.596   -7.821   -5.881   5.177   0.196  C15  WGR   10  
+WGR  C16  C9   C  0  1  N  N  N  18.393   9.820   -6.666   -4.509   5.392  -0.447  C16  WGR   11  
+WGR  C17  C10  C  0  1  N  N  N  18.254  10.667   -5.440   -3.773   6.481   0.290  C17  WGR   12  
+WGR  C18  C11  C  0  1  N  N  N  17.231  10.716   -4.598   -2.530   6.274   0.713  C18  WGR   13  
+WGR  C19  C12  C  0  1  N  N  N  16.006   9.894   -4.719   -1.747   5.150   0.176  C19  WGR   14  
+WGR  C2   C13  C  0  1  N  N  N  16.781  18.902   -7.204  -19.338  -3.852  -1.186  C2   WGR   15  
+WGR  C20  C14  C  0  1  N  N  N  14.203   9.061   -3.295    0.233   3.731   0.174  C20  WGR   16  
+WGR  C21  C15  C  0  1  N  N  N  14.978   7.850   -2.822    1.549   3.610   0.946  C21  WGR   17  
+WGR  C22  C16  C  0  1  N  N  N  15.031   7.678   -1.315    2.363   2.441   0.387  C22  WGR   18  
+WGR  C23  C17  C  0  1  N  N  N  15.355   6.252   -0.885    3.678   2.321   1.159  C23  WGR   19  
+WGR  C24  C18  C  0  1  N  N  S  14.254   5.263   -1.272    4.492   1.152   0.601  C24  WGR   20  
+WGR  C25  C19  C  0  1  N  N  N  12.862   3.711   -0.031    3.497  -0.477   2.115  C25  WGR   21  
+WGR  C26  C20  C  0  1  N  N  S  12.754   2.627    1.055    2.764  -1.768   2.373  C26  WGR   22  
+WGR  C27  C21  C  0  1  N  N  N  11.635   1.660    0.677    1.250  -1.553   2.324  C27  WGR   23  
+WGR  C28  C22  C  0  1  N  N  N  12.559   3.198    2.467    3.193  -2.387   3.726  C28  WGR   24  
+WGR  C29  C23  C  0  1  N  N  N  14.372   1.891    2.366    3.989  -3.625   2.018  C29  WGR   25  
+WGR  C3   C24  C  0  1  N  N  N  17.679  18.280   -8.262  -18.591  -2.746  -0.437  C3   WGR   26  
+WGR  C30  C25  C  0  1  Y  N  N  15.574   1.267    2.923    4.595  -4.799   1.356  C30  WGR   27  
+WGR  C31  C26  C  0  1  Y  N  N  15.858   1.383    4.284    5.458  -5.636   2.064  C31  WGR   28  
+WGR  C32  C27  C  0  1  Y  N  N  17.098   1.015    4.778    6.020  -6.730   1.441  C32  WGR   29  
+WGR  C33  C28  C  0  1  Y  N  N  18.069   0.528    3.930    5.732  -7.003   0.115  C33  WGR   30  
+WGR  C34  C29  C  0  1  Y  N  N  17.815   0.406    2.576    4.879  -6.183  -0.597  C34  WGR   31  
+WGR  C35  C30  C  0  1  Y  N  N  16.576   0.774    2.061    4.301  -5.082   0.016  C35  WGR   32  
+WGR  C36  C31  C  0  1  N  N  N  14.547   4.622   -2.620    5.838   1.109   1.277  C36  WGR   33  
+WGR  C37  C32  C  0  1  N  N  R  13.906   4.652   -4.945    8.087   1.840   1.574  C37  WGR   34  
+WGR  C38  C33  C  0  1  N  N  N  15.134   5.315   -5.517    8.087   2.793   2.771  C38  WGR   35  
+WGR  C39  C34  C  0  1  N  N  N  12.640   5.056   -5.674    9.221   2.220   0.620  C39  WGR   36  
+WGR  C4   C35  C  0  1  N  N  N  16.961  17.996   -9.574  -17.219  -2.531  -1.081  C4   WGR   37  
+WGR  C40  C36  C  0  1  N  N  N  11.632   3.932   -5.772    9.300   1.210  -0.495  C40  WGR   38  
+WGR  C41  C37  C  0  1  N  N  S   9.765   3.059   -4.469   10.307   0.360  -2.544  C41  WGR   39  
+WGR  C42  C38  C  0  1  N  N  N  10.314   2.887   -3.048   10.971   0.995  -3.768  C42  WGR   40  
+WGR  C43  C39  C  0  1  N  N  N   9.981   1.536   -2.425   10.547   0.284  -5.040  C43  WGR   41  
+WGR  C44  C40  C  0  1  N  N  N   8.504   1.246   -2.247   11.050  -1.144  -5.141  C44  WGR   42  
+WGR  C45  C41  C  0  1  N  N  N   7.732   1.144   -3.546   10.394  -2.030  -4.080  C45  WGR   43  
+WGR  C46  C42  C  0  1  N  N  N   8.290   3.423   -4.404   11.145  -0.822  -2.103  C46  WGR   44  
+WGR  C5   C43  C  0  1  N  N  N  17.706  18.491  -10.804  -16.472  -1.426  -0.332  C5   WGR   45  
+WGR  C6   C44  C  0  1  N  N  N  18.212  17.385  -11.714  -15.101  -1.211  -0.975  C6   WGR   46  
+WGR  C7   C45  C  0  1  N  N  N  17.169  16.848  -12.680  -14.354  -0.105  -0.226  C7   WGR   47  
+WGR  C8   C46  C  0  1  N  N  N  17.632  15.620  -13.439  -12.983   0.110  -0.869  C8   WGR   48  
+WGR  C9   C47  C  0  1  N  N  N  18.107  14.509  -12.522  -12.236   1.215  -0.121  C9   WGR   49  
+WGR  N1   N2   N  0  1  N  N  N  14.063   4.256   -0.241    3.779  -0.103   0.851  N1   WGR   50  
+WGR  N2   N3   N  0  1  N  N  N  14.021   1.883    1.147    3.179  -2.811   1.413  N2   WGR   51  
+WGR  N3   N4   N  0  1  N  N  N  10.468   4.134   -5.148   10.231   1.342  -1.460  N3   WGR   52  
+WGR  N4   N5   N  0  1  N  N  N   7.431   2.430   -4.165   11.177  -1.934  -2.837  N4   WGR   53  
+WGR  O1   O2   O  0  1  N  N  N  11.861   4.048   -0.646    3.833   0.225   3.045  O1   WGR   54  
+WGR  O2   O3   O  0  1  N  N  N  13.572   2.528    3.260    4.226  -3.302   3.306  O2   WGR   55  
+WGR  O3   O4   O  0  1  N  N  N  16.381   0.647    0.723    3.462  -4.275  -0.683  O3   WGR   56  
+WGR  O4   O5   O  0  1  N  N  N  15.397   3.798   -2.817    6.037   0.329   2.178  O4   WGR   57  
+WGR  O5   O6   O  0  1  N  N  N  13.735   5.124   -3.567    6.816   1.937   0.878  O5   WGR   58  
+WGR  O6   O7   O  0  1  N  N  N  11.878   2.905   -6.399    8.525   0.277  -0.524  O6   WGR   59  
+WGR  O7   O8   O  0  1  N  N  N   7.919   4.582   -4.567   11.790  -0.756  -1.077  O7   WGR   60  
+WGR  H1   H1   H  0  1  N  N  N  15.040  11.015   -3.342   -0.196   5.377   1.444  H1   WGR   61  
+WGR  H2   H2   H  0  1  N  N  N  17.802  18.070   -3.996  -21.585  -4.882  -2.334  H2   WGR   62  
+WGR  H3   H3   H  0  1  N  N  N  18.844  18.477   -5.402  -20.882  -6.097  -1.241  H3   WGR   63  
+WGR  H4   H4   H  0  1  N  N  N  17.725  19.709   -4.726  -22.433  -5.325  -0.833  H4   WGR   64  
+WGR  H5   H5   H  0  1  N  N  N  15.803  18.329   -5.390  -21.283  -3.141  -0.594  H5   WGR   65  
+WGR  H6   H6   H  0  1  N  N  N  16.922  17.096   -6.066  -20.580  -4.357   0.500  H6   WGR   66  
+WGR  H7   H7   H  0  1  N  N  N  17.963  12.781  -13.772  -10.993   1.721  -1.807  H7   WGR   67  
+WGR  H8   H8   H  0  1  N  N  N  19.477  13.728  -13.964  -10.290   0.505  -0.713  H8   WGR   68  
+WGR  H9   H9   H  0  1  N  N  N  19.729  11.478  -12.863  -10.691   3.461  -0.066  H9   WGR   69  
+WGR  H10  H10  H  0  1  N  N  N  20.379  12.874  -11.940   -9.988   2.246   1.027  H10  WGR   70  
+WGR  H11  H11  H  0  1  N  N  N  18.578  12.830  -10.403   -8.172   1.826  -0.608  H11  WGR   71  
+WGR  H12  H12  H  0  1  N  N  N  17.615  11.728  -11.444   -8.875   3.041  -1.701  H12  WGR   72  
+WGR  H13  H13  H  0  1  N  N  N  19.263   9.941  -11.054   -8.573   4.782   0.039  H13  WGR   73  
+WGR  H14  H14  H  0  1  N  N  N  20.193  11.046   -9.985   -7.870   3.566   1.133  H14  WGR   74  
+WGR  H15  H15  H  0  1  N  N  N  17.396  10.879   -9.187   -6.053   3.146  -0.502  H15  WGR   75  
+WGR  H16  H16  H  0  1  N  N  N  18.166   9.257   -9.254   -6.757   4.362  -1.596  H16  WGR   76  
+WGR  H17  H17  H  0  1  N  N  N  20.076  10.312   -7.898   -6.455   6.102   0.145  H17  WGR   77  
+WGR  H18  H18  H  0  1  N  N  N  18.939  11.670   -7.598   -5.751   4.886   1.238  H18  WGR   78  
+WGR  H19  H19  H  0  1  N  N  N  17.396   9.467   -6.970   -3.935   4.467  -0.397  H19  WGR   79  
+WGR  H20  H20  H  0  1  N  N  N  19.032   8.956   -6.432   -4.638   5.682  -1.490  H20  WGR   80  
+WGR  H21  H21  H  0  1  N  N  N  19.087  11.316   -5.214   -4.256   7.429   0.475  H21  WGR   81  
+WGR  H22  H22  H  0  1  N  N  N  17.296  11.403   -3.767   -2.094   6.932   1.451  H22  WGR   82  
+WGR  H23  H23  H  0  1  N  N  N  17.120  19.933   -7.028  -18.764  -4.777  -1.135  H23  WGR   83  
+WGR  H24  H24  H  0  1  N  N  N  15.752  18.916   -7.591  -19.467  -3.561  -2.229  H24  WGR   84  
+WGR  H25  H25  H  0  1  N  N  N  13.598   9.448   -2.462   -0.336   2.808   0.281  H25  WGR   85  
+WGR  H26  H26  H  0  1  N  N  N  13.541   8.764   -4.122    0.445   3.907  -0.880  H26  WGR   86  
+WGR  H27  H27  H  0  1  N  N  N  14.508   6.953   -3.253    2.118   4.534   0.840  H27  WGR   87  
+WGR  H28  H28  H  0  1  N  N  N  16.010   7.938   -3.193    1.336   3.434   2.001  H28  WGR   88  
+WGR  H29  H29  H  0  1  N  N  N  15.805   8.349   -0.913    1.793   1.518   0.494  H29  WGR   89  
+WGR  H30  H30  H  0  1  N  N  N  14.052   7.956   -0.897    2.575   2.618  -0.667  H30  WGR   90  
+WGR  H31  H31  H  0  1  N  N  N  16.294   5.942   -1.367    4.248   3.244   1.053  H31  WGR   91  
+WGR  H32  H32  H  0  1  N  N  N  15.480   6.232    0.208    3.466   2.145   2.214  H32  WGR   92  
+WGR  H33  H33  H  0  1  N  N  N  13.320   5.835   -1.374    4.628   1.285  -0.473  H33  WGR   93  
+WGR  H34  H34  H  0  1  N  N  N  11.548   0.880    1.447    0.969  -1.168   1.344  H34  WGR   94  
+WGR  H35  H35  H  0  1  N  N  N  10.685   2.210    0.604    0.743  -2.501   2.501  H35  WGR   95  
+WGR  H36  H36  H  0  1  N  N  N  11.865   1.194   -0.293    0.960  -0.837   3.093  H36  WGR   96  
+WGR  H37  H37  H  0  1  N  N  N  12.715   4.287    2.473    3.592  -1.625   4.395  H37  WGR   97  
+WGR  H38  H38  H  0  1  N  N  N  11.552   2.969    2.845    2.364  -2.920   4.192  H38  WGR   98  
+WGR  H39  H39  H  0  1  N  N  N  18.075  17.332   -7.869  -19.165  -1.821  -0.488  H39  WGR   99  
+WGR  H40  H40  H  0  1  N  N  N  18.511  18.971   -8.463  -18.462  -3.037   0.605  H40  WGR  100  
+WGR  H41  H41  H  0  1  N  N  N  15.104   1.763    4.958    5.686  -5.426   3.099  H41  WGR  101  
+WGR  H42  H42  H  0  1  N  N  N  17.305   1.110    5.834    6.689  -7.377   1.990  H42  WGR  102  
+WGR  H43  H43  H  0  1  N  N  N  19.032   0.240    4.324    6.176  -7.862  -0.365  H43  WGR  103  
+WGR  H44  H44  H  0  1  N  N  N  18.580   0.024    1.917    4.658  -6.402  -1.632  H44  WGR  104  
+WGR  H45  H45  H  0  1  N  N  N  14.021   3.558   -4.970    8.233   0.818   1.923  H45  WGR  105  
+WGR  H46  H46  H  0  1  N  N  N  16.022   4.990   -4.955    7.940   3.815   2.422  H46  WGR  106  
+WGR  H47  H47  H  0  1  N  N  N  15.245   5.031   -6.574    7.278   2.522   3.451  H47  WGR  107  
+WGR  H48  H48  H  0  1  N  N  N  15.031   6.407   -5.439    9.040   2.720   3.294  H48  WGR  108  
+WGR  H49  H49  H  0  1  N  N  N  12.908   5.377   -6.692    9.029   3.208   0.202  H49  WGR  109  
+WGR  H50  H50  H  0  1  N  N  N  12.178   5.896   -5.135   10.165   2.234   1.165  H50  WGR  110  
+WGR  H51  H51  H  0  1  N  N  N  15.977  18.487   -9.544  -16.645  -3.456  -1.030  H51  WGR  111  
+WGR  H52  H52  H  0  1  N  N  N  16.825  16.908   -9.666  -17.348  -2.241  -2.123  H52  WGR  112  
+WGR  H53  H53  H  0  1  N  N  N   9.885   2.115   -5.021    9.305   0.021  -2.806  H53  WGR  113  
+WGR  H54  H54  H  0  1  N  N  N  11.408   2.994   -3.083   10.682   2.044  -3.830  H54  WGR  114  
+WGR  H55  H55  H  0  1  N  N  N   9.888   3.678   -2.413   12.054   0.928  -3.664  H55  WGR  115  
+WGR  H56  H56  H  0  1  N  N  N  10.405   0.752   -3.069    9.458   0.273  -5.086  H56  WGR  116  
+WGR  H57  H57  H  0  1  N  N  N  10.457   1.493   -1.434   10.922   0.847  -5.895  H57  WGR  117  
+WGR  H58  H58  H  0  1  N  N  N   8.063   2.055   -1.646   10.816  -1.537  -6.131  H58  WGR  118  
+WGR  H59  H59  H  0  1  N  N  N   8.402   0.292   -1.709   12.130  -1.155  -4.998  H59  WGR  119  
+WGR  H60  H60  H  0  1  N  N  N   6.782   0.628   -3.343    9.375  -1.688  -3.898  H60  WGR  120  
+WGR  H61  H61  H  0  1  N  N  N   8.327   0.551   -4.255   10.376  -3.063  -4.426  H61  WGR  121  
+WGR  H62  H62  H  0  1  N  N  N  18.570  19.084  -10.469  -17.047  -0.500  -0.383  H62  WGR  122  
+WGR  H63  H63  H  0  1  N  N  N  17.026  19.131  -11.385  -16.343  -1.716   0.711  H63  WGR  123  
+WGR  H64  H64  H  0  1  N  N  N  18.561  16.553  -11.085  -14.527  -2.136  -0.924  H64  WGR  124  
+WGR  H65  H65  H  0  1  N  N  N  19.055  17.779  -12.300  -15.230  -0.920  -2.018  H65  WGR  125  
+WGR  H66  H66  H  0  1  N  N  N  16.927  17.637  -13.407  -14.928   0.820  -0.277  H66  WGR  126  
+WGR  H67  H67  H  0  1  N  N  N  16.266  16.586  -12.109  -14.225  -0.396   0.816  H67  WGR  127  
+WGR  H68  H68  H  0  1  N  N  N  16.794  15.243  -14.043  -12.408  -0.815  -0.819  H68  WGR  128  
+WGR  H69  H69  H  0  1  N  N  N  18.461  15.908  -14.102  -13.112   0.400  -1.912  H69  WGR  129  
+WGR  H70  H70  H  0  1  N  N  N  18.845  14.931  -11.824  -12.106   0.925   0.922  H70  WGR  130  
+WGR  H71  H71  H  0  1  N  N  N  17.240  14.134  -11.958  -12.810   2.141  -0.172  H71  WGR  131  
+WGR  H72  H72  H  0  1  N  N  N  14.841   3.968    0.318    3.510  -0.665   0.108  H72  WGR  132  
+WGR  H73  H73  H  0  1  N  N  N  10.069   5.051   -5.148   10.851   2.088  -1.437  H73  WGR  133  
+WGR  H74  H74  H  0  1  N  N  N   6.482   2.584   -4.439   11.719  -2.686  -2.551  H74  WGR  134  
+WGR  H75  H75  H  0  1  N  N  N  15.501   0.930    0.503    2.533  -4.539  -0.637  H75  WGR  135  
+#   #
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+WGR  C8   C7   SING  N  N    1  
+WGR  C8   C9   SING  N  N    2  
+WGR  C10  C9   SING  N  N    3  
+WGR  C10  C11  SING  N  N    4  
+WGR  C7   C6   SING  N  N    5  
+WGR  C11  C12  SING  N  N    6  
+WGR  C6   C5   SING  N  N    7  
+WGR  C12  C13  SING  N  N    8  
+WGR  C5   C4   SING  N  N    9  
+WGR  C13  C14  SING  N  N   10  
+WGR  C4   C3   SING  N  N   11  
+WGR  C14  C15  SING  N  N   12  
+WGR  C3   C2   SING  N  N   13  
+WGR  C15  C16  SING  N  N   14  
+WGR  C2   C1   SING  N  N   15  
+WGR  C16  C17  SING  N  N   16  
+WGR  O6   C40  DOUB  N  N   17  
+WGR  C1   C    SING  N  N   18  
+WGR  C40  C39  SING  N  N   19  
+WGR  C40  N3   SING  N  N   20  
+WGR  C39  C37  SING  N  N   21  
+WGR  O    C19  DOUB  N  N   22  
+WGR  C38  C37  SING  N  N   23  
+WGR  C17  C18  DOUB  N  Z   24  
+WGR  N3   C41  SING  N  N   25  
+WGR  C37  O5   SING  N  N   26  
+WGR  C19  C18  SING  N  N   27  
+WGR  C19  N    SING  N  N   28  
+WGR  O7   C46  DOUB  N  N   29  
+WGR  C41  C46  SING  N  N   30  
+WGR  C41  C42  SING  N  N   31  
+WGR  C46  N4   SING  N  N   32  
+WGR  N4   C45  SING  N  N   33  
+WGR  N    C20  SING  N  N   34  
+WGR  O5   C36  SING  N  N   35  
+WGR  C45  C44  SING  N  N   36  
+WGR  C20  C21  SING  N  N   37  
+WGR  C42  C43  SING  N  N   38  
+WGR  C21  C22  SING  N  N   39  
+WGR  O4   C36  DOUB  N  N   40  
+WGR  C36  C24  SING  N  N   41  
+WGR  C43  C44  SING  N  N   42  
+WGR  C22  C23  SING  N  N   43  
+WGR  C24  C23  SING  N  N   44  
+WGR  C24  N1   SING  N  N   45  
+WGR  O1   C25  DOUB  N  N   46  
+WGR  N1   C25  SING  N  N   47  
+WGR  C25  C26  SING  N  N   48  
+WGR  C27  C26  SING  N  N   49  
+WGR  O3   C35  SING  N  N   50  
+WGR  C26  N2   SING  N  N   51  
+WGR  C26  C28  SING  N  N   52  
+WGR  N2   C29  DOUB  N  N   53  
+WGR  C35  C34  DOUB  Y  N   54  
+WGR  C35  C30  SING  Y  N   55  
+WGR  C29  C30  SING  N  N   56  
+WGR  C29  O2   SING  N  N   57  
+WGR  C28  O2   SING  N  N   58  
+WGR  C34  C33  SING  Y  N   59  
+WGR  C30  C31  DOUB  Y  N   60  
+WGR  C33  C32  DOUB  Y  N   61  
+WGR  C31  C32  SING  Y  N   62  
+WGR  N    H1   SING  N  N   63  
+WGR  C    H2   SING  N  N   64  
+WGR  C    H3   SING  N  N   65  
+WGR  C    H4   SING  N  N   66  
+WGR  C1   H5   SING  N  N   67  
+WGR  C1   H6   SING  N  N   68  
+WGR  C10  H7   SING  N  N   69  
+WGR  C10  H8   SING  N  N   70  
+WGR  C11  H9   SING  N  N   71  
+WGR  C11  H10  SING  N  N   72  
+WGR  C12  H11  SING  N  N   73  
+WGR  C12  H12  SING  N  N   74  
+WGR  C13  H13  SING  N  N   75  
+WGR  C13  H14  SING  N  N   76  
+WGR  C14  H15  SING  N  N   77  
+WGR  C14  H16  SING  N  N   78  
+WGR  C15  H17  SING  N  N   79  
+WGR  C15  H18  SING  N  N   80  
+WGR  C16  H19  SING  N  N   81  
+WGR  C16  H20  SING  N  N   82  
+WGR  C17  H21  SING  N  N   83  
+WGR  C18  H22  SING  N  N   84  
+WGR  C2   H23  SING  N  N   85  
+WGR  C2   H24  SING  N  N   86  
+WGR  C20  H25  SING  N  N   87  
+WGR  C20  H26  SING  N  N   88  
+WGR  C21  H27  SING  N  N   89  
+WGR  C21  H28  SING  N  N   90  
+WGR  C22  H29  SING  N  N   91  
+WGR  C22  H30  SING  N  N   92  
+WGR  C23  H31  SING  N  N   93  
+WGR  C23  H32  SING  N  N   94  
+WGR  C24  H33  SING  N  N   95  
+WGR  C27  H34  SING  N  N   96  
+WGR  C27  H35  SING  N  N   97  
+WGR  C27  H36  SING  N  N   98  
+WGR  C28  H37  SING  N  N   99  
+WGR  C28  H38  SING  N  N  100  
+WGR  C3   H39  SING  N  N  101  
+WGR  C3   H40  SING  N  N  102  
+WGR  C31  H41  SING  N  N  103  
+WGR  C32  H42  SING  N  N  104  
+WGR  C33  H43  SING  N  N  105  
+WGR  C34  H44  SING  N  N  106  
+WGR  C37  H45  SING  N  N  107  
+WGR  C38  H46  SING  N  N  108  
+WGR  C38  H47  SING  N  N  109  
+WGR  C38  H48  SING  N  N  110  
+WGR  C39  H49  SING  N  N  111  
+WGR  C39  H50  SING  N  N  112  
+WGR  C4   H51  SING  N  N  113  
+WGR  C4   H52  SING  N  N  114  
+WGR  C41  H53  SING  N  N  115  
+WGR  C42  H54  SING  N  N  116  
+WGR  C42  H55  SING  N  N  117  
+WGR  C43  H56  SING  N  N  118  
+WGR  C43  H57  SING  N  N  119  
+WGR  C44  H58  SING  N  N  120  
+WGR  C44  H59  SING  N  N  121  
+WGR  C45  H60  SING  N  N  122  
+WGR  C45  H61  SING  N  N  123  
+WGR  C5   H62  SING  N  N  124  
+WGR  C5   H63  SING  N  N  125  
+WGR  C6   H64  SING  N  N  126  
+WGR  C6   H65  SING  N  N  127  
+WGR  C7   H66  SING  N  N  128  
+WGR  C7   H67  SING  N  N  129  
+WGR  C8   H68  SING  N  N  130  
+WGR  C8   H69  SING  N  N  131  
+WGR  C9   H70  SING  N  N  132  
+WGR  C9   H71  SING  N  N  133  
+WGR  N1   H72  SING  N  N  134  
+WGR  N3   H73  SING  N  N  135  
+WGR  N4   H74  SING  N  N  136  
+WGR  O3   H75  SING  N  N  137  
+#   #
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+WGR  SMILES            ACDLabs               12.01  "O=C(NC(CCCCNC(=O)/C=C\CCCCCCCCCCCCCCCCC)C(=O)OC(C)CC(=O)NC1CCCCNC1=O)C1(C)N=C(OC1)c1ccccc1O"  
+WGR  InChI             InChI                 1.03   "InChI=1S/C47H75N5O8/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-31-41(54)48-32-25-24-29-39(45(57)60-36(2)34-42(55)50-38-28-23-26-33-49-43(38)56)51-46(58)47(3)35-59-44(52-47)37-27-21-22-30-40(37)53/h20-22,27,30-31,36,38-39,53H,4-19,23-26,28-29,32-35H2,1-3H3,(H,48,54)(H,49,56)(H,50,55)(H,51,58)/b31-20-/t36-,38+,39+,47+/m1/s1"  
+WGR  InChIKey          InChI                 1.03   JLBSVDZUWJLOCF-ZLKQSCCRSA-N  
+WGR  SMILES_CANONICAL  CACTVS                3.385  "CCCCCCCCCCCCCCCCC\C=C/C(=O)NCCCC[C@H](NC(=O)[C@]1(C)COC(=N1)c2ccccc2O)C(=O)O[C@H](C)CC(=O)N[C@H]3CCCCNC3=O"  
+WGR  SMILES            CACTVS                3.385  "CCCCCCCCCCCCCCCCCC=CC(=O)NCCCC[CH](NC(=O)[C]1(C)COC(=N1)c2ccccc2O)C(=O)O[CH](C)CC(=O)N[CH]3CCCCNC3=O"  
+WGR  SMILES_CANONICAL  "OpenEye OEToolkits"  2.0.7  "CCCCCCCCCCCCCCCCC/C=C\C(=O)NCCCC[C@@H](C(=O)O[C@H](C)CC(=O)N[C@H]1CCCCNC1=O)NC(=O)[C@@]2(COC(=N2)c3ccccc3O)C"  
+WGR  SMILES            "OpenEye OEToolkits"  2.0.7  "CCCCCCCCCCCCCCCCCC=CC(=O)NCCCCC(C(=O)OC(C)CC(=O)NC1CCCCNC1=O)NC(=O)C2(COC(=N2)c3ccccc3O)C"  
+#   #
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+WGR  "SYSTEMATIC NAME"  ACDLabs               12.01  "(2R)-4-oxo-4-{[(3S)-2-oxoazepan-3-yl]amino}butan-2-yl N~2~-[(4S)-2-(2-hydroxyphenyl)-4-methyl-4,5-dihydro-1,3-oxazole-4-carbonyl]-N~6~-[(2Z)-icos-2-enoyl]-L-lysinate"  
+WGR  "SYSTEMATIC NAME"  "OpenEye OEToolkits"  2.0.7  "[(2~{R})-4-oxidanylidene-4-[[(3~{S})-2-oxidanylideneazepan-3-yl]amino]butan-2-yl] (2~{S})-2-[[(4~{S})-2-(2-hydroxyphenyl)-4-methyl-5~{H}-1,3-oxazol-4-yl]carbonylamino]-6-[[(~{Z})-icos-2-enoyl]amino]hexanoate"  
+#
+_pdbx_chem_comp_synonyms.ordinal     1
+_pdbx_chem_comp_synonyms.comp_id     WGR
+_pdbx_chem_comp_synonyms.name        "(2R)-4-oxo-4-{[(3S)-2-oxoazepan-3-yl]amino}butan-2-yl N~2~-[(4S)-2-(2-hydroxyphenyl)-4-methyl-4,5-dihydro-1,3-oxazole-4-carbonyl]-N~6~-[(2Z)-icos-2-enoyl]-L-lysinate"
+_pdbx_chem_comp_synonyms.provenance  PDB
+_pdbx_chem_comp_synonyms.type        IUPAC
+#   #
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+WGR  "Create component"  2021-08-27  RCSB  
+WGR  "Initial release"   2022-05-18  RCSB  
+##

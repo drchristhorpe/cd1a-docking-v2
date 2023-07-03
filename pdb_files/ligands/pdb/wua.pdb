@@ -1,0 +1,113 @@
+HETATM    1  N   WUA     0      -8.761   8.434  -1.842  0.00  0.00           N1+
+HETATM    2  C   WUA     0       9.721   0.773  -0.381  0.00  0.00           C  
+HETATM    3  O   WUA     0      -7.247   6.854   0.086  0.00  0.00           O  
+HETATM    4  C1  WUA     0       8.470   0.651   0.491  0.00  0.00           C  
+HETATM    5  C10 WUA     0      15.929  -0.077   0.353  0.00  0.00           C  
+HETATM    6  C11 WUA     0       2.262   1.500  -0.243  0.00  0.00           C  
+HETATM    7  C12 WUA     0      17.180   0.045  -0.520  0.00  0.00           C  
+HETATM    8  C13 WUA     0       1.011   1.379   0.630  0.00  0.00           C  
+HETATM    9  C14 WUA     0      18.415  -0.319   0.306  0.00  0.00           C  
+HETATM   10  C15 WUA     0      -0.224   1.743  -0.196  0.00  0.00           C  
+HETATM   11  C16 WUA     0      19.666  -0.198  -0.566  0.00  0.00           C  
+HETATM   12  C17 WUA     0      -1.475   1.621   0.676  0.00  0.00           C  
+HETATM   13  C18 WUA     0      -7.463  -7.921   0.093  0.00  0.00           C  
+HETATM   14  C19 WUA     0      20.901  -0.562   0.260  0.00  0.00           C  
+HETATM   15  C2  WUA     0      10.956   0.408   0.445  0.00  0.00           C  
+HETATM   16  C20 WUA     0      -7.510  -6.741  -0.880  0.00  0.00           C  
+HETATM   17  C21 WUA     0      -7.258  -9.220  -0.690  0.00  0.00           C  
+HETATM   18  C22 WUA     0      -7.714  -5.443  -0.098  0.00  0.00           C  
+HETATM   19  C23 WUA     0      -7.211 -10.400   0.283  0.00  0.00           C  
+HETATM   20  C24 WUA     0      -7.761  -4.263  -1.070  0.00  0.00           C  
+HETATM   21  C25 WUA     0      -7.007 -11.698  -0.500  0.00  0.00           C  
+HETATM   22  C26 WUA     0      -2.710   1.985  -0.150  0.00  0.00           C  
+HETATM   23  C27 WUA     0      22.152  -0.440  -0.612  0.00  0.00           C  
+HETATM   24  C28 WUA     0      -7.500   8.868  -1.227  0.00  0.00           C  
+HETATM   25  C29 WUA     0      -6.353   2.023   1.025  0.00  0.00           C  
+HETATM   26  C3  WUA     0       7.235   1.015  -0.335  0.00  0.00           C  
+HETATM   27  C30 WUA     0      -7.965  -2.964  -0.288  0.00  0.00           C  
+HETATM   28  C31 WUA     0      -6.960 -12.878   0.473  0.00  0.00           C  
+HETATM   29  C32 WUA     0      -7.572   1.766   0.136  0.00  0.00           C  
+HETATM   30  C33 WUA     0      -8.012  -1.784  -1.260  0.00  0.00           C  
+HETATM   31  C34 WUA     0      -9.882   8.783  -0.959  0.00  0.00           C  
+HETATM   32  C35 WUA     0      -8.931   9.106  -3.138  0.00  0.00           C  
+HETATM   33  C36 WUA     0      -8.733   6.979  -2.046  0.00  0.00           C  
+HETATM   34  C37 WUA     0      -6.755 -14.177  -0.310  0.00  0.00           C  
+HETATM   35  C38 WUA     0      -3.942   1.865   0.709  0.00  0.00           C  
+HETATM   36  C39 WUA     0      23.388  -0.804   0.214  0.00  0.00           C  
+HETATM   37  C4  WUA     0      12.207   0.530  -0.427  0.00  0.00           C  
+HETATM   38  C40 WUA     0      -7.387   8.274   0.178  0.00  0.00           C  
+HETATM   39  C41 WUA     0      -6.558   3.322   1.808  0.00  0.00           C  
+HETATM   40  C42 WUA     0      -7.371   0.487  -0.635  0.00  0.00           C  
+HETATM   41  C43 WUA     0      -8.214  -0.505  -0.489  0.00  0.00           C  
+HETATM   42  C44 WUA     0      -6.708 -15.357   0.663  0.00  0.00           C  
+HETATM   43  C45 WUA     0      24.639  -0.683  -0.658  0.00  0.00           C  
+HETATM   44  C46 WUA     0      -6.504 -16.655  -0.120  0.00  0.00           C  
+HETATM   45  C5  WUA     0       5.984   0.893   0.537  0.00  0.00           C  
+HETATM   46  C6  WUA     0      13.443   0.166   0.399  0.00  0.00           C  
+HETATM   47  C7  WUA     0       4.749   1.258  -0.289  0.00  0.00           C  
+HETATM   48  C8  WUA     0      14.694   0.287  -0.474  0.00  0.00           C  
+HETATM   49  C9  WUA     0       3.498   1.136   0.584  0.00  0.00           C  
+HETATM   50  N1  WUA     0      -5.155   2.139   0.190  0.00  0.00           N  
+HETATM   51  O1  WUA     0      -6.834   4.388   0.897  0.00  0.00           O  
+HETATM   52  O2  WUA     0      -7.732   2.853  -0.778  0.00  0.00           O  
+HETATM   53  O3  WUA     0      -3.842   1.523   1.868  0.00  0.00           O  
+HETATM   54  O4  WUA     0      -8.459   5.959   2.240  0.00  0.00           O  
+HETATM   55  O5  WUA     0      -5.968   6.365   2.206  0.00  0.00           O  
+HETATM   56  P   WUA     0      -7.102   5.902   1.376  0.00  0.00           P  
+CONECT    1   24   31   32   33
+CONECT    2    4   15
+CONECT    3   56   38
+CONECT    4    2   26
+CONECT    5    7   48
+CONECT    6    8   49
+CONECT    7    5    9
+CONECT    8    6   10
+CONECT    9    7   11
+CONECT   10    8   12
+CONECT   11    9   14
+CONECT   12   10   22
+CONECT   13   16   17
+CONECT   14   11   23
+CONECT   15    2   37
+CONECT   16   13   18
+CONECT   17   13   19
+CONECT   18   16   20
+CONECT   19   17   21
+CONECT   20   18   27
+CONECT   21   19   28
+CONECT   22   12   35
+CONECT   23   14   36
+CONECT   24    1   38
+CONECT   25   29   39   50
+CONECT   26    4   45
+CONECT   27   20   30
+CONECT   28   21   34
+CONECT   29   25   40   52
+CONECT   30   27   41
+CONECT   31    1
+CONECT   32    1
+CONECT   33    1
+CONECT   34   28   42
+CONECT   35   22   50   53
+CONECT   36   23   43
+CONECT   37   15   46
+CONECT   38   24    3
+CONECT   39   25   51
+CONECT   40   29   41
+CONECT   41   40   30
+CONECT   42   34   44
+CONECT   43   36
+CONECT   44   42
+CONECT   45   26   47
+CONECT   46   37   48
+CONECT   47   45   49
+CONECT   48    5   46
+CONECT   49    6   47
+CONECT   50   35   25
+CONECT   51   39   56
+CONECT   52   29
+CONECT   53   35
+CONECT   54   56
+CONECT   55   56
+CONECT   56    3   55   51   54
+END

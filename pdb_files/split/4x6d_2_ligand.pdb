@@ -1,0 +1,37 @@
+HETATM    1  C1  PAM C 304     -41.078  60.400  65.042  1.00156.41           C  
+HETATM    2  O1  PAM C 304     -40.983  60.841  66.204  1.00163.46           O  
+HETATM    3  C2  PAM C 304     -41.931  59.188  64.761  1.00145.48           C  
+HETATM    4  O2  PAM C 304     -40.460  60.983  64.126  1.00159.63           O  
+HETATM    5  C3  PAM C 304     -43.339  59.439  65.277  1.00132.49           C  
+HETATM    6  C4  PAM C 304     -43.938  58.194  65.906  1.00119.81           C  
+HETATM    7  C5  PAM C 304     -45.288  58.546  66.509  1.00107.15           C  
+HETATM    8  C6  PAM C 304     -46.343  58.630  65.419  1.00 95.95           C  
+HETATM    9  C7  PAM C 304     -47.741  58.858  65.977  1.00 86.77           C  
+HETATM   10  C8  PAM C 304     -48.457  59.804  65.024  1.00 82.68           C  
+HETATM   11  C9  PAM C 304     -49.957  59.654  65.109  1.00 83.09           C  
+HETATM   12  C10 PAM C 304     -50.741  59.466  63.878  1.00 78.58           C  
+HETATM   13  C11 PAM C 304     -50.061  59.646  62.544  1.00 82.26           C  
+HETATM   14  C12 PAM C 304     -50.446  58.524  61.586  1.00 85.99           C  
+HETATM   15  C13 PAM C 304     -49.313  58.262  60.594  1.00 87.69           C  
+HETATM   16  C14 PAM C 304     -49.691  57.189  59.574  1.00 90.76           C  
+HETATM   17  C15 PAM C 304     -48.947  57.374  58.249  1.00 90.09           C  
+HETATM   18  C16 PAM C 304     -47.473  56.987  58.336  1.00 86.14           C  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17
+END
