@@ -1,0 +1,9 @@
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 4.73701
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 3.13487
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 3.52144
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 3.94398
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 5.27017
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 4.26635
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 4.25424
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 3.59959
+RMSD /Users/drchristhorpe/research/experiments/2023/cd1a-docking-v2/inputs/ligands/4x6c_ligand.pdb:/media/chris/experiments/cd1a-new-docking/inputs/ligands/4x6c_ligand.pdb 2.64461
